@@ -9,7 +9,7 @@
 
 3) To teach people about Data Science.
 
-While analyzing some publicly available data from the NYC government, I uncovered the fact that Tobacco Retailers are the second largest small business industry in NYC. Holding a small business market share of 11%, they represent around 5,029 small buinesses throughout the five boroughs of the Bronx, Brooklyn, Manhattan, Queens, and Staten Island.
+While analyzing some publicly available data from the NYC government, I uncovered the fact that Tobacco Retailers are the second largest small business industry in NYC. Holding a market share of 11%, they represent around 5,029 small businesses throughout the five boroughs of the Bronx, Brooklyn, Manhattan, Queens, and Staten Island.
 
 ![Top 5 Small Business Industries in NYC](https://github.com/TechProofreader/NYC-Tobacco-Retailer-Location-Density/blob/b86e33266c5a723d8f81390906092b27545cb46a/Top_5_Small_Biz_NYC.png)
 
