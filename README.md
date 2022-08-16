@@ -37,7 +37,7 @@ Note: I have removed the Longitude and Latitude coordinates of the retailer loca
 
 ### Key Takeaways From This Data
 
-* There are more far too many Tobacco Retailers in NYC, and the current community district caps are already too high.
+* There are far too many Tobacco Retailers in NYC, and the current community district caps are already too high.
 * Community district caps on Tobacco Retailer licenses in NYC should be drastically reduced.
 * All Tobacco license caps are at capacity, with zero available slots for new licenses, but I believe the current total capped alotment is still too high.
 * There is a discrepancy in how NYC records and categorizes licensed Tobacco Retailers because after confirming my count with NYC's count of 5,029 [(NYC's Active Tobacco Retailer Licenses Dataset confirming this number)](https://data.cityofnewyork.us/Business/Active-Tobacco-Retail-Dealer-Licenses/adw8-wvxb), their licensing caps dataset shows a total license cap of 5,322 available licenses. Even worse, that same dataset shows a total of 6,885 total active tobacco retailer licenses, compared to 5,029 total active licenses in their legally operating business dataset. This discrepancy is not explained anywhere in any of their datasets.
