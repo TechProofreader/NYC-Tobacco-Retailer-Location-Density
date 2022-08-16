@@ -31,7 +31,7 @@ While analyzing some publicly available data from the NYC government, I uncovere
 
 Note: I have removed the Longitude and Latitude coordinates of the retailer locations from the visualization for privacy reasons.
 
-### As of 2019, the current NYC community district caps on Tobacco Retailer licenses per borough are visualized below:
+### The current NYC community district caps on Tobacco Retailer licenses per borough are visualized below:
 
 ![Tobacco Retailer License Caps](https://github.com/TechProofreader/NYC-Tobacco-Retailer-Location-Density/blob/8ce2f6401a1e66c8b462101ae1448d0d7070e17c/Tobacco_Caps_NYC.png)
 
