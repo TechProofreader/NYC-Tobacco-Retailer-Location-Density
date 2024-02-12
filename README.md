@@ -1,4 +1,7 @@
 # NYC Tobacco Retailer Location Density per Borough
+
+_Note: This is a Hard Level program that you can use to further your Python knowledge by first learning how the base program works, and then extending the program with your own additions._
+
 ***This repository contains some analysis on publicly available NYC data relating to Tobacco Retailer location density per borough.***
 
 ### I conducted this research and analysis for a few reasons:
